@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product List With Cart](https://olamstevy.github.io/product-list-with-cart/)
 
 ### Built with
 

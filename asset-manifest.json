@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shop-products/static/css/main.c76fe18e.css",
-    "main.js": "/shop-products/static/js/main.aeda2969.js",
-    "static/media/RedHatText-Regular.ttf": "/shop-products/static/media/RedHatText-Regular.1114e0c17a9d15f2014a.ttf",
-    "static/media/RedHatText-SemiBold.ttf": "/shop-products/static/media/RedHatText-SemiBold.50846cf1a3346a806070.ttf",
-    "static/media/RedHatText-Bold.ttf": "/shop-products/static/media/RedHatText-Bold.710fa6829252d684327b.ttf",
-    "index.html": "/shop-products/index.html",
-    "main.c76fe18e.css.map": "/shop-products/static/css/main.c76fe18e.css.map",
-    "main.aeda2969.js.map": "/shop-products/static/js/main.aeda2969.js.map"
+    "main.css": "/product-list-with-cart/static/css/main.44278a54.css",
+    "main.js": "/product-list-with-cart/static/js/main.aeda2969.js",
+    "static/media/RedHatText-Regular.ttf": "/product-list-with-cart/static/media/RedHatText-Regular.1114e0c17a9d15f2014a.ttf",
+    "static/media/RedHatText-SemiBold.ttf": "/product-list-with-cart/static/media/RedHatText-SemiBold.50846cf1a3346a806070.ttf",
+    "static/media/RedHatText-Bold.ttf": "/product-list-with-cart/static/media/RedHatText-Bold.710fa6829252d684327b.ttf",
+    "index.html": "/product-list-with-cart/index.html",
+    "main.44278a54.css.map": "/product-list-with-cart/static/css/main.44278a54.css.map",
+    "main.aeda2969.js.map": "/product-list-with-cart/static/js/main.aeda2969.js.map"
   },
   "entrypoints": [
-    "static/css/main.c76fe18e.css",
+    "static/css/main.44278a54.css",
     "static/js/main.aeda2969.js"
   ]
 }

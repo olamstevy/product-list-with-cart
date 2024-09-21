@@ -1,6 +1,6 @@
 {
 	"homepage": "https://olamstevy.github.io/shop-products",
-	"name": "product-list-with-cart",
+	"name": "shop-products",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

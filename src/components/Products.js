@@ -33,7 +33,6 @@ function Product({
 }) {
 	const [minusColor, setMinusColor] = useState("#fff");
 	const [plusColor, setPlusColor] = useState("#fff");
-	console.log(window.innerWidth);
 
 	return (
 		<li>
